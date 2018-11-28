@@ -14,5 +14,9 @@
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/ThomasPetitjeanIutLyon1/CafeCloppeApi/issues"
+  },
+  "dependencies": {
+    "express": "^4.16.4",
+    "mysql": "^2.16.0"
   }
 }
